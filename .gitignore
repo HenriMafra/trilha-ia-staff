@@ -1,0 +1,10 @@
+# Node & dependencies
+node_modules/
+npm-debug.log*
+
+# Cloudflare Wrangler
+.wrangler/
+
+# OS metadata
+.DS_Store
+Thumbs.db
