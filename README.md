@@ -15,6 +15,7 @@ Repositório oficial e público da formação executiva e técnica de **Engenhar
 
 ## 🏛️ Estrutura das 3 Trilhas de Elite
 
-1. **🚀 Trilha 1: AI Systems, RAG & LLMOps** (12 Módulos com chancelas Coursera/Michigan/DeepLearning.AI)
-2. **🛡️ Trilha 2: AppSec & AI Security Engineering** (11 Módulos com chancelas Stanford/IBM/Google Cloud)
-3. **⚡ Trilha 3: High-Performance Systems & GPU/CUDA Architecture** (12 Módulos com chancelas NVIDIA/Princeton/Dartmouth)
+1. **🚀 Trilha 1: AI Systems, RAG & LLMOps** (13 Módulos com chancelas Google/Michigan/DeepLearning.AI/Stanford/AWS)
+   * *Inclui Módulo Especializado de Redes de Computadores, Protocolos Web (TCP/IP, HTTP/2, WebSockets, gRPC) & Streaming para IA.*
+2. **🛡️ Trilha 2: AppSec & AI Security Engineering** (11 Módulos com chancelas Stanford/IBM/Google Cloud/NYU)
+3. **⚡ Trilha 3: High-Performance Systems & GPU/CUDA Architecture** (12 Módulos com chancelas NVIDIA/Princeton/Dartmouth/Illinois)
